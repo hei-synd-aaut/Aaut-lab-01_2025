@@ -128,3 +128,7 @@ END_VAR
 hwSensor := GVL_Abox.uaAboxInterface.uaSchunk;
 hwActuator := GVL_Abox.uaAboxInterface.uaSchunkGripper;
 ```
+
+# Install Node-RED
+
+[Install on Windows](https://nodered.org/docs/getting-started/windows)
